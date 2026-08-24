@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+.vscode/
+
+# Large trained model weights
+hospital_chatbot_models/
+
+# OS files
+.DS_Store
+Thumbs.db
